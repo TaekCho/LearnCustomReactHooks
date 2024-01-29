@@ -16,3 +16,10 @@ When using some logic that needs to be used in different places, you put it into
 <hr>
 
 Hence, <strong>Custom Hooks.</strong>
+
+<hr>
+
+It is <b>important</b> to name custom hooks starting with <i>"use"(i.e. useFunction)</i> as a convention.
+
+
+Function names starting with 'use' are treated as hooks in React.
